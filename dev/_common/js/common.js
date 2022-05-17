@@ -19,6 +19,7 @@ const peeps = {
 	}
 }
 
+const BG = 12
 
 function init2(obj){
 	
@@ -29,8 +30,8 @@ function init2(obj){
 	tl.set(".frame1", {opacity:1})
 
 	
-
-	TweenLite.to(".bg", 13, {scale:.5, ...obj.tween, ease:Linear.easeNone})
+	TweenLite.to(".bg", BG, {scale:.5, ...obj.tween, ease:Linear.easeNone})
+	
 
 	const IN = .5
 	const OUT = .3
@@ -106,4 +107,4 @@ function init(){
 
 
 
-export {size, init, init2}
+export {size, init, init2, BG}
