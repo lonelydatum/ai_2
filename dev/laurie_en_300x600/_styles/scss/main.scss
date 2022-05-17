@@ -1,0 +1,28 @@
+@import '../../../_common/styles/common.scss';
+
+
+
+
+.bg{
+	transform-origin: 0px 440px;
+	
+	@include pos-scale(0, -220, 0.7);
+
+	// transform-origin: 240px 150px;
+	// @include pos-scale(-120, -75, 0.8);
+
+
+	// @include pos-scale(-150, -125, 0.5);
+	// display: none;
+}
+
+
+
+#banner{
+	width: 300px;
+	height: 600px;
+}
+
+.frame1{
+	// opacity: 1;
+}
