@@ -6,8 +6,7 @@
 .bg{
 	transform-origin: 0px 440px;
 	
-	@include pos-scale(-280, -305, 0.78);
-
+	@include pos-scale(-280, -260, 0.78);
 	// transform-origin: 240px 150px;
 	// @include pos-scale(-120, -75, 0.8);
 

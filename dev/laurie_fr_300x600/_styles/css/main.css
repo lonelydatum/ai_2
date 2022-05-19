@@ -204,9 +204,9 @@ canvas, .text, .frame, .outline, img {
   -webkit-transform-origin: 0px 440px;
   -ms-transform-origin: 0px 440px;
   transform-origin: 0px 440px;
-  -webkit-transform: translate(-280px, -305px) scale(0.78, 0.78);
-  -ms-transform: translate(-280px, -305px) scale(0.78, 0.78);
-  transform: translate(-280px, -305px) scale(0.78, 0.78);
+  -webkit-transform: translate(-280px, -260px) scale(0.78, 0.78);
+  -ms-transform: translate(-280px, -260px) scale(0.78, 0.78);
+  transform: translate(-280px, -260px) scale(0.78, 0.78);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
