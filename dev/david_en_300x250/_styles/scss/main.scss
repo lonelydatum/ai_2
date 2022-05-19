@@ -24,7 +24,8 @@
 
 .bg{
 	transform-origin: 50% 50%;
-	@include pos-scale(-160, -118, 1.1);
+	// @include pos-scale(-160, -118, 1.1);
+	@include pos-scale(-187, -118, 1);
 	// @include pos-scale(-150, -125, .5);
 	// opacity: .5;
 }

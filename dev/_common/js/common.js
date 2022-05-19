@@ -34,7 +34,7 @@ function init2(obj){
 
 
 	tl.set(".frame1", {opacity:1})
-
+	
 	
 	TweenLite.to(".bg", BG, {scale:.5, ...obj.tween, ease:Linear.easeNone})
 	
@@ -113,4 +113,4 @@ function init(){
 
 
 
-export {size, init, init2, BG}
+export {size, init, init2, BG, peeps}

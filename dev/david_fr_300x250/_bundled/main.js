@@ -93,6 +93,7 @@ exports.size = size;
 exports.init = init;
 exports.init2 = init2;
 exports.BG = BG;
+exports.peeps = peeps;
 
 },{}],2:[function(require,module,exports){
 "use strict";

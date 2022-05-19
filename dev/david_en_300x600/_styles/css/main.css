@@ -234,9 +234,9 @@ canvas, .text, .frame, .outline, img {
   -webkit-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%;
-  -webkit-transform: translate(-206px, -360px) scale(0.82, 0.82);
-  -ms-transform: translate(-206px, -360px) scale(0.82, 0.82);
-  transform: translate(-206px, -360px) scale(0.82, 0.82);
+  -webkit-transform: translate(-231px, -360px) scale(0.76, 0.76);
+  -ms-transform: translate(-231px, -360px) scale(0.76, 0.76);
+  transform: translate(-231px, -360px) scale(0.76, 0.76);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
