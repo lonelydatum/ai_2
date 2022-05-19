@@ -41,6 +41,7 @@ function init2(obj) {
 
 	tl.set(".frame1", { opacity: 1 });
 
+	// return
 	TweenLite.to(".bg", BG, _extends({ scale: .5 }, obj.tween, { ease: Linear.easeNone }));
 
 	var IN = .5;
