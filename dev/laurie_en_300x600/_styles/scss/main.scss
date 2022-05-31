@@ -5,8 +5,8 @@
 
 .bg{
 	transform-origin: 450px 680px;
-	@include pos-scale(-200, -315, 0.9);
-	// @include pos-scale(-374, -340, 0.5);
+	@include pos-scale(-120, -285, 0.9);
+	// @include pos-scale(-324, -340, 0.5);
 	// @include pos-scale(0, 0, 0.5);
 
 	// transform-origin: 240px 150px;
@@ -25,5 +25,5 @@
 }
 
 .frame1{
-	opacity: 1;
+	// opacity: 1;
 }
