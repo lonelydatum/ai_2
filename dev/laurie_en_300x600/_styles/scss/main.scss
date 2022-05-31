@@ -4,10 +4,10 @@
 
 
 .bg{
-	transform-origin: 0px 440px;
-	
-	// @include pos-scale(-280, -305, 0.78);
-	@include pos-scale(-280, -260, 0.78);
+	transform-origin: 450px 680px;
+	@include pos-scale(-200, -315, 0.9);
+	// @include pos-scale(-374, -340, 0.5);
+	// @include pos-scale(0, 0, 0.5);
 
 	// transform-origin: 240px 150px;
 	// @include pos-scale(-120, -75, 0.8);
@@ -25,5 +25,5 @@
 }
 
 .frame1{
-	// opacity: 1;
+	opacity: 1;
 }

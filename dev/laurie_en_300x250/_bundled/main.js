@@ -102,9 +102,10 @@ exports.peeps = peeps;
 var _commonJsCommonJs = require('../../_common/js/common.js');
 
 var data = {
-	name: "laurie",
-	tween: { x: -120, y: -75 }
+	name: "laurie"
 };
+// tween: {x:-120, y:-75}
+// tween: {x:-250, y:-151}
 var tl = (0, _commonJsCommonJs.init2)(data);
 
 },{"../../_common/js/common.js":1}]},{},[2])

@@ -201,12 +201,12 @@ canvas, .text, .frame, .outline, img {
 }
 
 .bg {
-  -webkit-transform-origin: 0px 440px;
-  -ms-transform-origin: 0px 440px;
-  transform-origin: 0px 440px;
-  -webkit-transform: translate(-280px, -260px) scale(0.78, 0.78);
-  -ms-transform: translate(-280px, -260px) scale(0.78, 0.78);
-  transform: translate(-280px, -260px) scale(0.78, 0.78);
+  -webkit-transform-origin: 450px 680px;
+  -ms-transform-origin: 450px 680px;
+  transform-origin: 450px 680px;
+  -webkit-transform: translate(-200px, -315px) scale(0.9, 0.9);
+  -ms-transform: translate(-200px, -315px) scale(0.9, 0.9);
+  transform: translate(-200px, -315px) scale(0.9, 0.9);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
@@ -217,6 +217,10 @@ canvas, .text, .frame, .outline, img {
 #banner {
   width: 300px;
   height: 600px;
+}
+
+.frame1 {
+  opacity: 1;
 }
 
 /*# sourceMappingURL=main.css.map */
