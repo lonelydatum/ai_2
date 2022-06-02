@@ -103,10 +103,13 @@ var _commonJsCommonJs = require('../../_common/js/common.js');
 
 var data = {
 	name: "laurie",
-	tween: { x: -100, y: -105 }
+	tween: { x: -130, y: -125 }
 	// tween: {x:-250, y:-151}
 };
+
 var tl = (0, _commonJsCommonJs.init2)(data);
+
+// @include pos-scale(-131, -125, .5);
 
 },{"../../_common/js/common.js":1}]},{},[2])
 

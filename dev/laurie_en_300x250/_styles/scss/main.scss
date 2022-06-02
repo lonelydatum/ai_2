@@ -2,8 +2,9 @@
 
 
 .bg{
-	transform-origin: 200px 210px;
-	@include pos-scale(-42, -105, 1.2);
+	transform-origin: 260px 250px;
+	@include pos-scale(-143, -105, 1.0);
+
 	// @include pos-scale(-100, -105, .5);
 	// @include pos-scale(-387, -62, 1.3);
 	// @include pos-scale(-150, -125, 0.5);

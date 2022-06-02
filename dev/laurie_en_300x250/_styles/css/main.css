@@ -201,12 +201,12 @@ canvas, .text, .frame, .outline, img {
 }
 
 .bg {
-  -webkit-transform-origin: 200px 210px;
-  -ms-transform-origin: 200px 210px;
-  transform-origin: 200px 210px;
-  -webkit-transform: translate(-42px, -105px) scale(1.2, 1.2);
-  -ms-transform: translate(-42px, -105px) scale(1.2, 1.2);
-  transform: translate(-42px, -105px) scale(1.2, 1.2);
+  -webkit-transform-origin: 260px 250px;
+  -ms-transform-origin: 260px 250px;
+  transform-origin: 260px 250px;
+  -webkit-transform: translate(-143px, -105px) scale(1, 1);
+  -ms-transform: translate(-143px, -105px) scale(1, 1);
+  transform: translate(-143px, -105px) scale(1, 1);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
