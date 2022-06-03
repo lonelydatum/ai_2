@@ -4,18 +4,11 @@
 
 
 .bg{
-	transform-origin: 450px 680px;
-	@include pos-scale(-80, -265, 0.9);
+	// transform-origin: 450px 680px;
+	// @include pos-scale(-80, -265, 0.9);
 	
-	// @include pos-scale(-324, -340, 0.5);
-	// @include pos-scale(0, 0, 0.5);
-
-	// transform-origin: 240px 150px;
-	// @include pos-scale(-120, -75, 0.8);
-
-
-	// @include pos-scale(-150, -125, 0.5);
-	// display: none;
+	transform-origin: 450px 680px;
+	@include pos-scale(-120, -255, 0.9);
 }
 
 
