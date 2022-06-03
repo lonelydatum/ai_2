@@ -103,7 +103,8 @@ var _commonJsCommonJs = require('../../_common/js/common.js');
 
 var data = {
 	name: "laurie",
-	tween: { x: -130, y: -125 }
+	// tween: {x:-130, y:-125}
+	tween: { x: -100, y: -105 }
 };
 var tl = (0, _commonJsCommonJs.init2)(data);
 
