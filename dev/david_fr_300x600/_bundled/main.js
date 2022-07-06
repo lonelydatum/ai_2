@@ -20,9 +20,9 @@ var h = size.h;
 var peeps = {
 	david: {
 		t1: 1.2,
-		t2: 2.3,
-		t3: 2,
-		t4: 3.3
+		t2: 2.5,
+		t3: 2.2,
+		t4: 3.5
 	},
 	laurie: {
 		t1: 1.2,
